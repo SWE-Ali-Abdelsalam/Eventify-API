@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\bin\Debug\net9.0\Eventify.Shared.deps.json
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\bin\Debug\net9.0\Eventify.Shared.dll
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\bin\Debug\net9.0\Eventify.Shared.pdb
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.dll
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\refint\Eventify.Shared.dll
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\Eventify.Shared.pdb
+C:\Users\lenovo\Documents\Eventify\Configuration\Shared\Eventify.Shared\obj\Debug\net9.0\ref\Eventify.Shared.dll

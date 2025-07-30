@@ -1,0 +1,9 @@
+﻿namespace Eventify.Application.Features.Events.DTOs
+{
+    public class EventOrganizerDto
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+    }
+}

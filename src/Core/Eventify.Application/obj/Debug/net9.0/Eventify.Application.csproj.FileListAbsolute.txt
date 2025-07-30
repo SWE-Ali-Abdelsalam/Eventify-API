@@ -1,0 +1,17 @@
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Application.deps.json
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Application.dll
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Application.pdb
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Domain.dll
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Shared.dll
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Domain.pdb
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\bin\Debug\net9.0\Eventify.Shared.pdb
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.F6A242CA.Up2Date
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.dll
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\refint\Eventify.Application.dll
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\Eventify.Application.pdb
+C:\Users\lenovo\Documents\Eventify\src\Core\Eventify.Application\obj\Debug\net9.0\ref\Eventify.Application.dll
